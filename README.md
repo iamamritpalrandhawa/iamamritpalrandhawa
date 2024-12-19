@@ -40,7 +40,7 @@ iamamritpalrandhawa@github
 ```bash
 npx amritpalrandhawa
 ```
-**👆 This command line tool can be found at [npx amritpalrandhawa](https://github.com/iamamritpalrandhawa/npx_card)**
+**👆 This command line tool can be found at [npx amritpalrandhawa](https://www.npmjs.com/package/amritpalrandhawa)**
  
  <p align="center"><b>Profile Visitor Count</b>
 <p align="center"><img src="https://profile-counter.glitch.me/iamamritpalrandhawa/count.svg" alt="visitor badge" width="30%"></p>
